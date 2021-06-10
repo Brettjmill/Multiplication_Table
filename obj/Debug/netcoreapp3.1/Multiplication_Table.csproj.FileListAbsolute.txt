@@ -1,0 +1,13 @@
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\bin\Debug\netcoreapp3.1\Multiplication_Table.exe
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\bin\Debug\netcoreapp3.1\Multiplication_Table.deps.json
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\bin\Debug\netcoreapp3.1\Multiplication_Table.runtimeconfig.json
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\bin\Debug\netcoreapp3.1\Multiplication_Table.runtimeconfig.dev.json
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\bin\Debug\netcoreapp3.1\Multiplication_Table.dll
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\bin\Debug\netcoreapp3.1\Multiplication_Table.pdb
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\obj\Debug\netcoreapp3.1\Multiplication_Table.csprojAssemblyReference.cache
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\obj\Debug\netcoreapp3.1\Multiplication_Table.AssemblyInfoInputs.cache
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\obj\Debug\netcoreapp3.1\Multiplication_Table.AssemblyInfo.cs
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\obj\Debug\netcoreapp3.1\Multiplication_Table.csproj.CoreCompileInputs.cache
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\obj\Debug\netcoreapp3.1\Multiplication_Table.dll
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\obj\Debug\netcoreapp3.1\Multiplication_Table.pdb
+C:\Users\speed\Desktop\Coding_Dojo\c_stack\Multiplication_Table\obj\Debug\netcoreapp3.1\Multiplication_Table.genruntimeconfig.cache
